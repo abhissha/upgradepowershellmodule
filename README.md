@@ -1,1 +1,2 @@
 # upgradepowershellmodule
+call Update-EveryModule
